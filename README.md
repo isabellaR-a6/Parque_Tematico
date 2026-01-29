@@ -29,8 +29,8 @@ Deploy: GitHub Pages ou similar
 Link Do figma
 -
 https://www.figma.com/design/SPRIM2KffJ9c2rkhud3k8F/Sem-t%C3%ADtulo?node-id=0-1&p=f&t=LpDOOdDE7ZDgGk4p-0
-Licença
-
 
 --
+Licença
+-
 MIT License - para uso educacional.
